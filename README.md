@@ -2,7 +2,9 @@
   
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<img src="https://media1.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=ecf05e47zsgva8rc4eztw0uq8feru7l0u4fmbw3h9p1w7a8d&rid=giphy.gif&ct=g" alt="side Image" align="right" width="200" height="auto" />
+
+
   
   - 🔭 I’m currently working as a Student in Kathmandu,Nepal
   - 🌱 I’m currently learning javascript mainly React.
@@ -24,7 +26,7 @@
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />]
 &nbsp;
 
-
+<img src="https://media.tenor.com/y1PhOGKBEiYAAAAC/fbi-teleport.gif" alt="side Image" align="right" width="400" height="auto" />
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />]
 &nbsp;
 
@@ -32,6 +34,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />]
 &nbsp;
+  
 
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=sudan08&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sudan08&show_icons=true&theme=radical)
