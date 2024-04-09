@@ -10,7 +10,7 @@
   - 🌱 I’m currently learning javascript mainly React.
   - 💬 Ask me about Series , Games , Life.
   - 😄 Pronouns: He / Him.
-  - ⚡ Fun fact: I am happy.
+  - ⚡ Fun fact: I was happy.
   
   #### 📫 How to reach me:
   
