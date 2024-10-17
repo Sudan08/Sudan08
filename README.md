@@ -6,11 +6,11 @@
 
 
   
-  - 🔭 I’m currently working as a Student in Kathmandu,Nepal
-  - 🌱 I’m currently learning javascript mainly React.
-  - 💬 Ask me about Series , Games , Life.
+  - 🔭 I’m currently working as a Software Developer in Nepal.
+  - 🌱 Exploring New Tech.
+  - 💬 Ask me about Series , Games , Books.
   - 😄 Pronouns: He / Him.
-  - ⚡ Fun fact: I was happy.
+  - ⚡ Fun fact: I am happy.
   
   #### 📫 How to reach me:
   <a href="https://sudanshakya.vercel.app/" target="_blank">Check my website</a>
