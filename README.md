@@ -10,7 +10,6 @@
   - 🌱 Exploring New Tech.
   - 💬 Ask me about Series , Games , Books.
   - 😄 Pronouns: He / Him.
-  - ⚡ Fun fact: I am happy.
   
   #### 📫 How to reach me:
   <a href="https://sudanshakya.vercel.app/" target="_blank">Check my website</a>
