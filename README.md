@@ -12,7 +12,7 @@
   - 😄 Pronouns: He / Him.
   
   #### 📫 How to reach me:
-  <a href="https://sudanshakya.vercel.app/" target="_blank">Check my website</a>
+  <a href="https://sudanshakya.com.np/" target="_blank">Check my website</a>
   
  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/users/585843567596142612)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sudan-shakya-2bb526198/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sudan.shakya.14)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sudan.shakya/)  &nbsp; <a href="sudanshakya08@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
